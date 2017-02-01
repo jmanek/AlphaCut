@@ -1,0 +1,10 @@
+*.swp
+*.o
+*.obj
+*.mtl
+*.png
+*.tga
+log.txt
+alphacut
+!Tests/hello*
+!Tests/cut*
