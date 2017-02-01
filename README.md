@@ -8,6 +8,7 @@ AlphaCut allows you to perform a boolean difference on a mesh using a texture's 
 Currently there is only support for .objs
 
 ```
+make
 ./alphacut [filepath]
 ```
 
