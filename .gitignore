@@ -8,3 +8,4 @@ log.txt
 alphacut
 !Tests/hello*
 !Tests/cut*
+!Tests/original.png
